@@ -1,0 +1,362 @@
+[
+  {
+    "id": 38303,
+    "date_created": "2020-03-31T17:59:52",
+    "date_created_gmt": "2020-03-31T17:59:52",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "ALEXANDRE M.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: design-quality<br />\n---</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/c433512479f4d914f188f23e3e57d657?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/c433512479f4d914f188f23e3e57d657?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/c433512479f4d914f188f23e3e57d657?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/38303"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/2403"
+        }
+      ]
+    }
+  },
+  {
+    "id": 37743,
+    "date_created": "2020-03-04T13:05:18",
+    "date_created_gmt": "2020-03-04T13:05:18",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "Murugesan G.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: flexibility<br />\n---</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/5fd8dff583c0d39958b15a7952c9804c?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/5fd8dff583c0d39958b15a7952c9804c?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/5fd8dff583c0d39958b15a7952c9804c?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/37743"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/821"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24792,
+    "date_created": "2020-01-13T01:39:26",
+    "date_created_gmt": "2020-01-13T01:39:26",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "Slava C.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: other<br />\n---</p>\n<p>Great theme! Great support. If you are new to React like me, take your time to understand hooks, redux and react in general and you will appreciate this theme even more. I had a few questions and the guys provided me with the answers very quickly. Money well spent.</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/2bab38158bf9a128ed6a8933bf6fc3b2?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/2bab38158bf9a128ed6a8933bf6fc3b2?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/2bab38158bf9a128ed6a8933bf6fc3b2?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/24792"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/1249"
+        }
+      ]
+    }
+  },
+  {
+    "id": 23706,
+    "date_created": "2020-01-08T14:04:55",
+    "date_created_gmt": "2020-01-08T14:04:55",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "Brian H.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: other<br />\n---</p>\n<p>Overall a great value for cost. Help speed along design and development significantly. My only recommendation is to flesh out the design assets a little bit more.</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/b735a35a4e1dd9e6d99d9f83577259cb?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/b735a35a4e1dd9e6d99d9f83577259cb?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/b735a35a4e1dd9e6d99d9f83577259cb?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/23706"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/1472"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22454,
+    "date_created": "2020-01-03T17:29:16",
+    "date_created_gmt": "2020-01-03T17:29:16",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "OMER Y.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: code-quality<br />\n---</p>\n<p>Excellent code quality, especially usefull if you are a newbie. If you like the look and feel of the pages and that resonates with what you are developing, it puts you way ahead of the game.</p>\n<p>I am using some components and not the whole 'app' as is. Converting to TypeScript and in some parts it's a little challenging but overall they've done a really good job, kudos to the developer.</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/31f85aebadd5492f59f3c017a51279a7?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/31f85aebadd5492f59f3c017a51279a7?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/31f85aebadd5492f59f3c017a51279a7?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/22454"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/1411"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20053,
+    "date_created": "2019-12-25T10:38:14",
+    "date_created_gmt": "2019-12-25T10:38:14",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "fadel k.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: other<br />\n---</p>\n<p>This is the best react theme. It includes everything you need to run any project.<br />\nThe is clean and easy to understand and customize.</p>\n<p>Keep up the good work<br />\nThank you</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/4e5a0edd8d6b602c7f3c2021f30ad49f?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/4e5a0edd8d6b602c7f3c2021f30ad49f?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/4e5a0edd8d6b602c7f3c2021f30ad49f?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/20053"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/1181"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14453,
+    "date_created": "2019-12-02T08:46:51",
+    "date_created_gmt": "2019-12-02T08:46:51",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "Pankaj B.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: code-quality<br />\n---</p>\n<p>This is an amazing theme. I am pretty new to React and this theme has everything built in. I just had to copy paste some code and then customise it according to my needs. The team has put in a lot of effort into making this theme. Their support is amazing as well.</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/5e142cfb13b56ba3d8dc055b7bc883da?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/5e142cfb13b56ba3d8dc055b7bc883da?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/5e142cfb13b56ba3d8dc055b7bc883da?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/14453"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/1081"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14383,
+    "date_created": "2019-12-01T17:09:54",
+    "date_created_gmt": "2019-12-01T17:09:54",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "Terry R.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: other<br />\n---</p>\n<p>I purchased this template prior to version 1.3.0 which was still good, but I must say, the current version (1.3.0) is even better!</p>\n<p>I painfully developed my \"frontend\" skillset from virtually nothing to \"ok\" over the course of a year and this template really helped making the transition from an opensource React framework to something more bespoke and professional looking. I work almost 100% by examples and I was impressed to find examples that include:</p>\n<p>* Fully responsive to the point that it works in different resolutions with my crappy code<br />\n* Fully implemented React Router with navigation bar. Very easy to add/modify routes.<br />\n* \"Mock\" to mock your real API so you can do testing without a proper backend. This is phenomenal because this populates tables, cards, etc. with asynchronous data fetched from an API. No more looking up examples on how to jerry rig API calls into your components.<br />\n* Full use of React Hooks<br />\n* Redux stuff (if you're into that sort of thing)<br />\n* Really well defined ESLint configuration. Great for working in Visual Studio Code. I have no idea how to configure ESLint nor do I have the time so it's awesome to have something so turn-key to enforce a strict set of guidelines for code quality.<br />\n* PrismJS (for syntax highlighting of code)</p>\n<p>When purchasing most things, I try to look for the most critical reviews of the product as I'm looking for the source of frustrations for most people. Having said that, the only thing that I wish it included (as of 1.3.0) is working table pagination with use of \"useHistory\". This is used so that the URL in the URL bar can be copied and pasted to send via email, slack, etc. which also makes the using the browser back button navigate back through each table page properly.</p>\n<p>I initially had cold feet as I've never purchased something like this before. I wanted to make sure I didn't waste money on something that was incredibly difficult to use. Overall, I'm extremely happy with my purchase and would recommend this to anyone. I was able to transform my dashboard from \"zero\" to \"hero\" relatively easily providing a level of polish I couldn't otherwise achieve.</p>\n<p>Thanks for producing this!</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/e019648c316bdc49c6c28dfab36bb7bf?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/e019648c316bdc49c6c28dfab36bb7bf?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/e019648c316bdc49c6c28dfab36bb7bf?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/14383"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/435"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2392,
+    "date_created": "2019-09-02T17:17:45",
+    "date_created_gmt": "2019-09-02T17:17:45",
+    "product_id": 124,
+    "status": "approved",
+    "reviewer": "Michael D.",
+    "reviewer_email": null,
+    "review": "<p>---<br />\ndimension: design-quality<br />\n---</p>\n<p>Without a doubt, this template deserves 5 stars. It is very thoughtfully put together by the developer (or team?) with respect to naming conventions, directory structure, and code reuse. If you have experience with React and Redux, you will be familiar with what you are looking at.</p>\n<p>I was not as familiar with Material UI as I already was with React and Redux, so using this template was also a way for me to see how someone else made use of Material UI to create a layout and theme it.</p>\n<p>Aside from those observations as a developer, the template itself is a very attractive template and comes with many features to accommodate just about everything in today's website. I have been very pleased with both Olivier from Material UI and the Devias team who have been responsive when I did email them questions.</p>\n",
+    "rating": 5,
+    "verified": true,
+    "reviewer_avatar_urls": {
+      "24": "https://secure.gravatar.com/avatar/f1229ad32a72e2c9ebfe44dfa49ec71f?s=24&d=mm&r=g",
+      "48": "https://secure.gravatar.com/avatar/f1229ad32a72e2c9ebfe44dfa49ec71f?s=48&d=mm&r=g",
+      "96": "https://secure.gravatar.com/avatar/f1229ad32a72e2c9ebfe44dfa49ec71f?s=96&d=mm&r=g"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews/2392"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/reviews"
+        }
+      ],
+      "up": [
+        {
+          "href": "https://themes-backend.material-ui.com/wp-json/wc/v3/products/124"
+        }
+      ],
+      "reviewer": [
+        {
+          "embeddable": true,
+          "href": "https://themes-backend.material-ui.com/wp-json/wp/v2/users/362"
+        }
+      ]
+    }
+  }
+]
