@@ -36,7 +36,7 @@
     "react-static-plugin-sitemap": "^7.2.0",
     "react-static-plugin-source-filesystem": "^7.2.0",
     "recompose": "^0.30.0",
-    "redux": "^4.0.5",
+    "redux": "4.1.0",
     "redux-devtools-extension": "^2.13.8",
     "redux-logger": "^3.0.6",
     "redux-persist": "^6.0.0",
