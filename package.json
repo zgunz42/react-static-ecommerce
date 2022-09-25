@@ -33,7 +33,7 @@
     "react-static": "^7.2.0",
     "react-static-plugin-jss": "^7.2.2",
     "react-static-plugin-reach-router": "^7.2.0",
-    "react-static-plugin-sitemap": "^7.2.0",
+    "react-static-plugin-sitemap": "7.6.2",
     "react-static-plugin-source-filesystem": "^7.2.0",
     "recompose": "^0.30.0",
     "redux": "^4.0.5",
